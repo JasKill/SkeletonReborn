@@ -5,4 +5,4 @@
 # Installation
 put in /.config/EXILED/Plugins and thas it
 
-![Skele GIF](https://imgur.com/Ywem8wa)
+![Skele GIF](https://i.imgur.com/Ywem8wa.gif)
