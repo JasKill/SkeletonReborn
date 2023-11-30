@@ -5,4 +5,5 @@
 # Installation
 put in /.config/EXILED/Plugins and thas it
 
-![Skele GIF](https://i.imgur.com/Ywem8wa.gif)
+
+![SKELEGIF](https://github.com/Nuhxly/SkeletonReborn/assets/68903428/7924d98a-4988-4e38-b39c-b13af72f6cfe)
