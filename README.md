@@ -7,3 +7,4 @@ put in /.config/EXILED/Plugins and thas it
 
 
 ![SKELEGIF](https://github.com/Nuhxly/SkeletonReborn/assets/68903428/7924d98a-4988-4e38-b39c-b13af72f6cfe)
+yes me and my friend made this gif for this project lmao
